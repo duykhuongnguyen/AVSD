@@ -1,0 +1,34 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "avsd"
+version = "0.1.0"
+description = "Adaptive-View Self-Distillation for math and Codeforces tasks."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "Apache-2.0" }
+authors = [
+  { name = "Duy Nguyen" },
+]
+dependencies = [
+  "accelerate",
+  "bitsandbytes",
+  "datasets",
+  "deepspeed",
+  "einops",
+  "math-verify",
+  "peft",
+  "safetensors",
+  "sentencepiece",
+  "tiktoken",
+  "torch",
+  "transformers",
+  "trl",
+  "vllm",
+  "xformers",
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]
