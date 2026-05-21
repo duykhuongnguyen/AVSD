@@ -1,6 +1,6 @@
 # AVSD: Adaptive-View Self-Distillation
 
-This repository contains the code for the paper **[AVSD: Adaptive-View Self-Distillation by Balancing Consensus and Teacher-Specific Privileged Signals]()**.
+This repository contains the code for the paper **[AVSD: Adaptive-View Self-Distillation by Balancing Consensus and Teacher-Specific Privileged Signals](https://arxiv.org/abs/2605.20643)**.
 
 **Authors:** Duy Nguyen<sup>1</sup>, Hanqi Xiao<sup>1</sup>, Archiki Prasad<sup>1</sup>, Zaid Khan<sup>1</sup>, Anirban Das<sup>2</sup>, Austin Zhang<sup>2</sup>, Sambit Sahu<sup>2</sup>, Hyunji Lee<sup>1</sup>, Elias Stengel-Eskin<sup>3</sup>, Mohit Bansal<sup>1</sup>
 
@@ -146,7 +146,7 @@ If you find our work useful in your research, please consider citing our paper:
 @article{nguyen2026avsd,
   title={AVSD: Adaptive-View Self-Distillation by Balancing Consensus and Teacher-Specific Privileged Signals},
   author={Nguyen, Duy and Xiao, Hanqi and Prasad, Archiki and Khan, Zaid and Das, Anirban and Zhang, Austin and Sahu, Sambit and Lee, Hyunji and Stengel-Eskin, Elias and Bansal, Mohit},
-  journal={},
+  journal={arXiv preprint arXiv:2605.20643},
   year={2026}
 }
 ```
